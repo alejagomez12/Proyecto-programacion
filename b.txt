@@ -1,0 +1,6 @@
+Reporte de cantidad de vehículos según tipo de Vehículo: 
+ 
+La cantidad de Automóviles parqueados es de: 1
+La cantidad de Automóviles eléctricos parqueados es de: 1
+La cantidad de Motocicletas parqueados es de: 0
+La cantidad de Discapacitados parqueados es de: 0

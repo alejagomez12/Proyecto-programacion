@@ -1,0 +1,9 @@
+Reporte de porcentaje de ocupación del parqueadero: 
+ 
+El porcentaje de ocupación global es de: 0.36363636363636365% 
+El porcentaje de ocupación del piso 1 es de:0% 
+El porcentaje de ocupación del piso 2 es de:0% 
+El porcentaje de ocupación del piso 3 es de:0% 
+El porcentaje de ocupación del piso 4 es de:0% 
+El porcentaje de ocupación del piso 5 es de:2% 
+El porcentaje de ocupación del piso 6 es de:0.0% 

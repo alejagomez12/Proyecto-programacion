@@ -1,0 +1,6 @@
+Reporte de cantidad de vehículos según tipo de Usuario: 
+ 
+La cantidad de Estudiantes parqueados es de: 0
+La cantidad de Profesores parqueados es de: 0
+La cantidad de Personal Administrativos parqueados es de: 0
+La cantidad de Visitantes parqueados es de: 2
